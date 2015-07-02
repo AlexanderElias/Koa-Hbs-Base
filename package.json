@@ -1,0 +1,19 @@
+{
+  "name": "Koa_Base",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-hbs": "^0.7.0",
+    "koa-router": "^5.1.2",
+    "koa-static": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "nodemon --harmony server.js"
+  },
+  "author": "Alexander Elias",
+  "license": "ISC"
+}
